@@ -8,6 +8,7 @@ HTML_PAGE = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="monetag" content="e6825a9f13a6698ce537cea6e863e2bf">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scam Detector KE 🛡️</title>
