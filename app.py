@@ -9,6 +9,7 @@ HTML_PAGE = """
 <html lang="en">
 <head>
     <meta name="monetag" content="e6825a9f13a6698ce537cea6e863e2bf">
+    <script>(function(s){s.dataset.zone='11661809',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scam Detector KE 🛡️</title>
